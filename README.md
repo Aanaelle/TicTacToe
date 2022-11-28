@@ -1,2 +1,4 @@
 # TicTacToe
-Jeu du Morpion
+Jeu du Morpion codé en java
+
+Anaëlle Mimifir
